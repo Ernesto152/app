@@ -1,0 +1,306 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:2:1-92:12
+INJECTED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:2:1-92:12
+INJECTED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:2:1-92:12
+INJECTED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:2:1-92:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\2d7959d2c6597c20fb6095144afebcb6\AndroidManifest.xml:17:1-22:12
+MERGED from [uk.co.chrisjenx:calligraphy:2.1.0] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\calligraphy-2.1.0.aar\e2e3508775fd496328ad47db39c27f58\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\dd1901ecd669620d9a81eedec6c7923f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\eee77ddb79add224142a53c0a8c36cc3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\212b409281b2341ee13fb7a681e8da9c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\762e4a5e03c06f839c06d39aa01d9661\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\7340d41d1eabf1240b1b25d804456245\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\ea70aaf75199956950035ea3d29afdd0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\3bcaa69919ef6057feee0ff5c5fe72f1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\4337762cddd35b978d80defebadf155e\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\e32c4bfdb7b71d8d57c346b9c736cd48\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\c0f00c343a7518e8850e11570d95bb9b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\5d1b9258704b50c2b28cc7d90b72655e\AndroidManifest.xml:2:1-7:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\4e82ab85cd6a08d94cb97b10b620e1d6\AndroidManifest.xml:2:1-14:12
+MERGED from [android.arch.persistence.room:runtime:1.0.0] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\aa31bc092d7003f549be48675c84091b\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\693239e82eabcfecd17ae31e6e2e8fd4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\65acfa9ba0288104b872e74cfff391b4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\d90f468dd27177738cb28b6ba4f34f5f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f8b0299cc4a342e431a11f05c30a1a7c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\04621016c23f451ce37b98826163fc4c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db-framework:1.0.0] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\db-framework-1.0.0.aar\60c5d1313e5829ed30096a93564409f7\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.persistence:db:1.0.0] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\db-1.0.0.aar\61ff94def69746aba10525a41d7a7718\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\64bba8750814cd965fda2e78cdacee58\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\84991749c34821903b2217fba4a8215a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\ad4c89a6b30d098c365876b009b9f139\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\4f82dcea6f1fb6c167108980300bff39\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\21cbdbcf9d422de32abe89858abe6614\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b2c7c83d22dd5ab9a68fc6fd39d2bccc\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\1fa2c141796a4be6f15533443bc0eeac\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:2:1-92:12
+INJECTED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:2:1-92:12
+INJECTED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:2:1-92:12
+	package
+		ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:4:5-43
+		INJECTED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:2:1-92:12
+		INJECTED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:2:1-92:12
+		INJECTED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\7340d41d1eabf1240b1b25d804456245\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\7340d41d1eabf1240b1b25d804456245\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\7340d41d1eabf1240b1b25d804456245\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\7340d41d1eabf1240b1b25d804456245\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:9:22-73
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:12:5-65
+	android:name
+		ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:12:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:14:22-77
+uses-feature#android.hardware.camera
+ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:16:5-60
+	android:name
+		ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:16:19-57
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:23:22-76
+application
+ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:25:5-90:19
+MERGED from [uk.co.chrisjenx:calligraphy:2.1.0] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\calligraphy-2.1.0.aar\e2e3508775fd496328ad47db39c27f58\AndroidManifest.xml:11:5-20
+MERGED from [uk.co.chrisjenx:calligraphy:2.1.0] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\calligraphy-2.1.0.aar\e2e3508775fd496328ad47db39c27f58\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\eee77ddb79add224142a53c0a8c36cc3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\eee77ddb79add224142a53c0a8c36cc3\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\7340d41d1eabf1240b1b25d804456245\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\7340d41d1eabf1240b1b25d804456245\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\ea70aaf75199956950035ea3d29afdd0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\ea70aaf75199956950035ea3d29afdd0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\3bcaa69919ef6057feee0ff5c5fe72f1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\3bcaa69919ef6057feee0ff5c5fe72f1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\4337762cddd35b978d80defebadf155e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\4337762cddd35b978d80defebadf155e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\4e82ab85cd6a08d94cb97b10b620e1d6\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\4e82ab85cd6a08d94cb97b10b620e1d6\AndroidManifest.xml:7:5-12:19
+	android:supportsRtl
+		ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:31:9-35
+	android:label
+		ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:29:9-41
+	android:roundIcon
+		ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:30:9-47
+	android:icon
+		ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:28:9-42
+	android:allowBackup
+		ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:27:9-35
+	android:theme
+		ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:32:9-40
+	android:name
+		ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:26:9-35
+activity#tfc.com.pe.tfc_cobranzas_app.SplashActivity
+ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:33:9-40:20
+	android:theme
+		ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:35:13-77
+	android:name
+		ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:34:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:36:13-39:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:38:27-74
+activity#tfc.com.pe.tfc_cobranzas_app.user.login.view.LoginActivity
+ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:41:9-44:59
+	android:label
+		ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:43:13-57
+	android:theme
+		ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:44:13-56
+	android:name
+		ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:42:13-58
+activity#tfc.com.pe.tfc_cobranzas_app.main.view.MainActivity
+ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:45:9-47:59
+	android:label
+		ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:47:13-56
+	android:name
+		ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:46:13-51
+activity#tfc.com.pe.tfc_cobranzas_app.portfolio.view.ui.PortfolioActivity
+ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:48:9-52:20
+	android:label
+		ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:50:13-60
+	android:name
+		ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:49:13-64
+activity#tfc.com.pe.tfc_cobranzas_app.portfolio.view.ui.CustomerDetailActivity
+ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:53:9-55:65
+	android:label
+		ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:55:13-62
+	android:name
+		ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:54:13-69
+activity#tfc.com.pe.tfc_cobranzas_app.management.view.ui.RegisterVisitActivity
+ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:56:9-58:63
+	android:label
+		ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:58:13-60
+	android:name
+		ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:57:13-69
+activity#tfc.com.pe.tfc_cobranzas_app.management.view.ui.AdvancedActivity
+ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:59:9-61:57
+	android:label
+		ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:61:13-54
+	android:name
+		ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:60:13-64
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:70:9-72:55
+	android:value
+		ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:72:13-52
+	android:name
+		ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:71:13-58
+activity#tfc.com.pe.tfc_cobranzas_app.management.view.ui.CustomerAddressMapActivity
+ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:74:9-80:20
+	android:label
+		ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:76:13-72
+	android:name
+		ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:75:13-74
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:77:13-79:100
+	android:value
+		ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:79:17-97
+	android:name
+		ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:78:17-63
+activity#tfc.com.pe.tfc_cobranzas_app.management.view.ui.TelephoneReferenceActivity
+ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:81:9-83:74
+	android:label
+		ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:83:13-71
+	android:name
+		ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:82:13-74
+activity#tfc.com.pe.tfc_cobranzas_app.management.view.ui.HomeReferenceActivity
+ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:84:9-89:20
+	android:label
+		ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:86:13-68
+	android:theme
+		ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:87:13-56
+	android:name
+		ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml:85:13-69
+uses-sdk
+INJECTED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\2d7959d2c6597c20fb6095144afebcb6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\2d7959d2c6597c20fb6095144afebcb6\AndroidManifest.xml:20:5-44
+MERGED from [uk.co.chrisjenx:calligraphy:2.1.0] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\calligraphy-2.1.0.aar\e2e3508775fd496328ad47db39c27f58\AndroidManifest.xml:7:5-9:41
+MERGED from [uk.co.chrisjenx:calligraphy:2.1.0] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\calligraphy-2.1.0.aar\e2e3508775fd496328ad47db39c27f58\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\dd1901ecd669620d9a81eedec6c7923f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\dd1901ecd669620d9a81eedec6c7923f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\eee77ddb79add224142a53c0a8c36cc3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\eee77ddb79add224142a53c0a8c36cc3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\212b409281b2341ee13fb7a681e8da9c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\212b409281b2341ee13fb7a681e8da9c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\762e4a5e03c06f839c06d39aa01d9661\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\762e4a5e03c06f839c06d39aa01d9661\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\7340d41d1eabf1240b1b25d804456245\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\7340d41d1eabf1240b1b25d804456245\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\ea70aaf75199956950035ea3d29afdd0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\ea70aaf75199956950035ea3d29afdd0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\3bcaa69919ef6057feee0ff5c5fe72f1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\3bcaa69919ef6057feee0ff5c5fe72f1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\4337762cddd35b978d80defebadf155e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\4337762cddd35b978d80defebadf155e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\e32c4bfdb7b71d8d57c346b9c736cd48\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\e32c4bfdb7b71d8d57c346b9c736cd48\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\c0f00c343a7518e8850e11570d95bb9b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\c0f00c343a7518e8850e11570d95bb9b\AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\5d1b9258704b50c2b28cc7d90b72655e\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\5d1b9258704b50c2b28cc7d90b72655e\AndroidManifest.xml:5:5-43
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\4e82ab85cd6a08d94cb97b10b620e1d6\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\4e82ab85cd6a08d94cb97b10b620e1d6\AndroidManifest.xml:5:5-44
+MERGED from [android.arch.persistence.room:runtime:1.0.0] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\aa31bc092d7003f549be48675c84091b\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\aa31bc092d7003f549be48675c84091b\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\693239e82eabcfecd17ae31e6e2e8fd4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\693239e82eabcfecd17ae31e6e2e8fd4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\65acfa9ba0288104b872e74cfff391b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\65acfa9ba0288104b872e74cfff391b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\d90f468dd27177738cb28b6ba4f34f5f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\d90f468dd27177738cb28b6ba4f34f5f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f8b0299cc4a342e431a11f05c30a1a7c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f8b0299cc4a342e431a11f05c30a1a7c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\04621016c23f451ce37b98826163fc4c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\04621016c23f451ce37b98826163fc4c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.0.0] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\db-framework-1.0.0.aar\60c5d1313e5829ed30096a93564409f7\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db-framework:1.0.0] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\db-framework-1.0.0.aar\60c5d1313e5829ed30096a93564409f7\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\db-1.0.0.aar\61ff94def69746aba10525a41d7a7718\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\db-1.0.0.aar\61ff94def69746aba10525a41d7a7718\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\64bba8750814cd965fda2e78cdacee58\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\64bba8750814cd965fda2e78cdacee58\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\84991749c34821903b2217fba4a8215a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\84991749c34821903b2217fba4a8215a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\ad4c89a6b30d098c365876b009b9f139\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\ad4c89a6b30d098c365876b009b9f139\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\4f82dcea6f1fb6c167108980300bff39\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\4f82dcea6f1fb6c167108980300bff39\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\21cbdbcf9d422de32abe89858abe6614\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\21cbdbcf9d422de32abe89858abe6614\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b2c7c83d22dd5ab9a68fc6fd39d2bccc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b2c7c83d22dd5ab9a68fc6fd39d2bccc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\1fa2c141796a4be6f15533443bc0eeac\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\1fa2c141796a4be6f15533443bc0eeac\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ECHIRA\AndroidStudioProjects\tfc_cobranzas_app\app\src\main\AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\7340d41d1eabf1240b1b25d804456245\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\7340d41d1eabf1240b1b25d804456245\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\7340d41d1eabf1240b1b25d804456245\AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\ea70aaf75199956950035ea3d29afdd0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\ea70aaf75199956950035ea3d29afdd0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\ea70aaf75199956950035ea3d29afdd0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\ea70aaf75199956950035ea3d29afdd0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\4337762cddd35b978d80defebadf155e\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\4337762cddd35b978d80defebadf155e\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\4337762cddd35b978d80defebadf155e\AndroidManifest.xml:24:13-58
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\4e82ab85cd6a08d94cb97b10b620e1d6\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\4e82ab85cd6a08d94cb97b10b620e1d6\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\4e82ab85cd6a08d94cb97b10b620e1d6\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\ECHIRA\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\4e82ab85cd6a08d94cb97b10b620e1d6\AndroidManifest.xml:9:13-64
